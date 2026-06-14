@@ -26,7 +26,7 @@ _____  |  | \_____  \___  ___ ____   ____
 - 🪟 Windows Systems & Security
 - 🐧 Linux Administration (Kali / Debian)
 - 🌐 Web Security
-
+- 🦠 Malware Development & Analysis
 ---
 
 ## 🧰 Tech Stack
@@ -41,4 +41,5 @@ _____  |  | \_____  \___  ___ ____   ____
 ![Autopsy](https://img.shields.io/badge/Autopsy-2D2D2D?style=for-the-badge&logo=files&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logo=linux&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-gray?style=for-the-badge&logo=cisco&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
